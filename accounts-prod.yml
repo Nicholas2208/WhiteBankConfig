@@ -10,7 +10,7 @@ accounts:
   message: "Welcome to White Bank accounts related prod APIs "
   contactDetails:
     name: "Arthur Peck - Product Owner"
-    email: "arthura@whitebank.com"
+    email: "{cipher}e3e81a73c456da9d1f51aa65a71aa0992ec5425c92120d71036e334d2c89ddf708aaef39c0642a729c0ce18ecd0a4688"
   onCallSupport:
     - (895) 392-4829
     - (895) 203-0384
