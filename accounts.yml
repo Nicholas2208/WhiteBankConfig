@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to White Bank accounts related local APIs "
+  message: "Welcome to White Bank accounts related docker APIs "
   contactDetails:
     name: "Nicholas White - Developer"
     email: "nwhite@mail.com"
