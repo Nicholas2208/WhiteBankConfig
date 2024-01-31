@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to White Bank cards related local APIs "
+  message: "Welcome to White Bank cards related docker APIs "
   contactDetails:
     name: "Nicholas White - Developer"
     email: "nwhite@mail.com"
